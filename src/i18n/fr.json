@@ -1,0 +1,17 @@
+{
+  "greeting": "Bonjour a",
+  "greeting_sous_titre": "Merci de vous connecter pour continuer",
+  "welcome": "Bienvenue dans mon application",
+  "sidebar": [
+    {
+      "Dashboard": "Tableau de bord",
+      "Utilisateur": "Utilisateurs",
+      "Pointage": "Pointage",
+      "Employes": "Employés",
+      "TypedeLot": "Type de Lot",
+      "Lots": "Lots",
+      "Projets": "Projets",
+      "Acquereur": "Acquéreur"
+    }
+  ]
+}

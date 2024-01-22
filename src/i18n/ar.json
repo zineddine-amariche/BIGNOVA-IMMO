@@ -1,0 +1,17 @@
+{
+  "greeting": "مرحبًا في",
+  "greeting_sous_titre": "الرجاء تسجيل الدخول للمتابعة",
+  "welcome": "مرحبًا بك في تطبيقي",
+  "sidebar": [
+    {
+      "Dashboard": "لوحة القيادة",
+      "Utilisateur": "المستخدمون",
+      "Pointage": "الحضور",
+      "Employes": "الموظفون",
+      "TypedeLot": "نوع القطعة",
+      "Lots": "القطع",
+      "Projets": "المشاريع",
+      "Acquereur": "المشتري"
+    }
+  ]
+}
